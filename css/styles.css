@@ -34,14 +34,14 @@ body, html{
   }
   
   .pimg3{
-    background-image:url('../img/Urus_15.jpg');
+    background-image:url('../img/usus_exterio.jpg');
     min-height:400px;
   }
   
   .section{
     text-align:center;
     padding:10px 20px;
-    color: aqua;
+    color: rgba(255, 255, 255, 0);
   }
   
   .section-light{
@@ -61,7 +61,7 @@ body, html{
     text-align:center;
     /* color:#000000; */
     font-size:37px;
-    letter-spacing:10px;
+    letter-spacing:8px;
     text-transform:uppercase;
     
   }
